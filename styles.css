@@ -1,0 +1,88 @@
+#titulo-principal{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#descripcion{
+    text-align: center;
+    color: #232324;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.comentario{
+    color: rgb(34, 37, 37);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#parrafo{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(143, 79, 216);
+    background-color: aliceblue;
+    border: solid 3px black;
+}
+
+h4{
+    text-align: center;
+}
+
+.contenedor{
+    background-color: #D1E0F8;
+    padding: 50px 515px;
+}
+
+.imagenes{
+    width: 370px;
+    /*border-radius: 20px;
+    border: 7px rgb(78, 203, 241) solid;*/
+    display: block;
+    margin: auto;
+}
+
+.titulos{
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 5px;
+        font-size: 35px;
+        color: #AC73F9;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulos-secundarios{
+    margin-top: 5px;
+    margin-left: 125px;
+    font-size:25px;
+}
+
+.contenedor2{
+    background-color: #D1E0F8;
+    margin: 0px;
+}
+
+.contenedor-hijo{
+    background-color: rgb(100, 189, 240);
+}
+
+#titulo2{
+    display: flex;
+    align-items: flex-start;
+    background-color: #b079f8;
+}
+
+.canciones{
+    font-family: 'Lato', sans-serif;
+    color: #7a37d1;
+    font-size: 17px;
+}
+
+.textos{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.taylor-legenda{
+    display: block;
+    margin: auto;
+    border: 7px solid rgb(12, 73, 97);
+}
